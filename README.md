@@ -1,7 +1,7 @@
 # Kashif Amjad  
 🌐 AI Professional | Generative AI Specialist | LLM Expert  
 
-Welcome to my GitHub profile! I’m Kashif Amjad, an experienced AI professional specializing in Generative AI, Large Language Models, deep learning, and machine learning. With over 3 years of experience, I have a strong focus on developing innovative AI solutions, leading teams, and making impactful contributions to open-source projects.
+Welcome to my GitHub profile! I’m Kashif Amjad, an experienced AI professional specializing in Generative AI, Large Language Models, deep learning, and machine learning. With over 4 years of experience, I have a strong focus on developing innovative AI solutions, leading teams, and making impactful contributions to open-source projects.
 ---
 
 ## 📈 GitHub Stats
